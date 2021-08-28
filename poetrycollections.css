@@ -138,7 +138,7 @@ text-decoration:none;
 .ytimg
 {
 position:absolute;
-background-image:url("images/youtube.png");
+background-image:url("youtube.png");
 background-repeat:no-repeat;
 background-position:center;
 background-size:220px 220px;
@@ -162,7 +162,7 @@ top:193px;
 .fbpimg
 {
 position:absolute;
-background-image:url("images/facebook1.png");
+background-image:url("facebook1.png");
 background-repeat:no-repeat;
 background-position:center;
 background-size:220px 220px;
@@ -186,7 +186,7 @@ top:463px;
 .fbgimg
 {
 position:absolute;
-background-image:url("images/facebook1.png");
+background-image:url("facebook1.png");
 background-repeat:no-repeat;
 background-position:center;
 background-size:220px 220px;
@@ -211,7 +211,7 @@ top:733px;
 {
 position:absolute;
 background-color:#006E4B;
-background-image:url("images/twitter.png");
+background-image:url("twitter.png");
 background-repeat:no-repeat;
 background-position:center;
 background-size:170px 170px;
@@ -236,7 +236,7 @@ top:1003px;
 {
 position:absolute;
 background-color:#006E4B;
-background-image:url("images/whatsapp.png");
+background-image:url("whatsapp.png");
 background-repeat:no-repeat;
 background-position:center;
 background-size:180px 180px;
@@ -261,7 +261,7 @@ top:1273px;
 {
 position:absolute;
 background-color:#860600;
-background-image:url("images/gmail.png");
+background-image:url("gmail.png");
 background-repeat:no-repeat;
 background-position:center;
 background-size:150px 150px;
